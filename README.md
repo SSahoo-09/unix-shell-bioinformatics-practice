@@ -1,9 +1,9 @@
 # unix-shell-bioinformatics-practice
-A personal practice repository for mastering Unix Shell commands in a bioinformatics context. Focused on developing dry-lab skills for genomics and command-line data processing.
+This repository contains my learning and practice notes from the **Unix Shell for Bioinformatics** course by [AstroBioMike](https://astrobiomike.github.io/unix/), a beginner-friendly and highly practical series for those entering computational biology.
 
 # Practice Repository
+A personal practice repository for mastering Unix Shell commands in a bioinformatics context. Focused on developing dry-lab skills for genomics and command-line data processing.
 
-This repository contains my learning and practice notes from the **Unix Shell for Bioinformatics** course by [AstroBioMike](https://astrobiomike.github.io/unix/), a beginner-friendly and highly practical series for those entering computational biology.
 
 ## 📚 Course Overview
 The course consists of 5 structured modules that guide learners from the basics of navigating Unix systems to handling real biological datasets on HPC environments.
