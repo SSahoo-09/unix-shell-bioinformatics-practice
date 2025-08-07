@@ -1,5 +1,7 @@
 # unix-shell-bioinformatics-practice
-This repository contains my learning and practice notes from the **Unix Shell for Bioinformatics** course by [AstroBioMike](https://astrobiomike.github.io/unix/), a beginner-friendly and highly practical series for those entering computational biology.
+This repository contains my learning and practice notes from:
+-  **Unix Shell for Bioinformatics** course by [AstroBioMike](https://astrobiomike.github.io/unix/), a beginner-friendly and highly practical series for those entering computational biology.
+-  **The Unix Shell** course by [Software Carpentry](https://swcarpentry.github.io/shell-novice/), a beginner-friendly and practical series for learning Unix and Bash.
 
 # Practice Repository
 A personal practice repository for mastering Unix Shell commands in a bioinformatics context. Focused on developing dry-lab skills for genomics and command-line data processing.
@@ -43,6 +45,10 @@ This repo is a **learning space**. Feel free to fork, star ⭐, or refer to it i
 
 [Unix Shell for Bioinformatics by Mike Love](https://astrobiomike.github.io/unix/)
 
+Gabriel A. Devenyi (Ed.), Gerard Capes (Ed.), Colin Morris (Ed.), Will Pitchers (Ed.),
+Greg Wilson, Gerard Capes, Gabriel A. Devenyi, Christina Koch, Raniere Silva, Ashwin Srinath, … Vikram Chhatre.
+(2019, July). swcarpentry/shell-novice: Software Carpentry: the UNIX shell, June 2019 (Version v2019.06.1).
+Zenodo. http://doi.org/10.5281/zenodo.3266823
 ---
 
 ## 🔖 Tags
