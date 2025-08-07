@@ -43,9 +43,9 @@ This repo is a **learning space**. Feel free to fork, star ⭐, or refer to it i
 
 ### 🔗 Course Reference
 
-[Unix Shell for Bioinformatics by Mike Love](https://astrobiomike.github.io/unix/)
+- [Unix Shell for Bioinformatics by Mike Love](https://astrobiomike.github.io/unix/)
 
-Gabriel A. Devenyi (Ed.), Gerard Capes (Ed.), Colin Morris (Ed.), Will Pitchers (Ed.),
+- Gabriel A. Devenyi (Ed.), Gerard Capes (Ed.), Colin Morris (Ed.), Will Pitchers (Ed.),
 Greg Wilson, Gerard Capes, Gabriel A. Devenyi, Christina Koch, Raniere Silva, Ashwin Srinath, … Vikram Chhatre.
 (2019, July). swcarpentry/shell-novice: Software Carpentry: the UNIX shell, June 2019 (Version v2019.06.1).
 Zenodo. http://doi.org/10.5281/zenodo.3266823
